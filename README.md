@@ -34,7 +34,7 @@ MVVM, Jetpack Navigation Component, Room, LiveData, Flow, StateFlow, Kotlin Coro
 
 Battle in Space is a game under development in which you need to earn points by fighting with other spaceships and colliding them with meteorites.
 
-Битва в космосе - это разрабатываемая игра в которой надо зарабатывать очки сражаясь, с другими космическими кораблями и сталкивая их с метеоритами.
+Битва в космосе - это разрабатываемая игра в которой надо зарабатывать очки, сражаясь с другими космическими кораблями и сталкивая их с метеоритами.
 
 MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
@@ -52,7 +52,7 @@ MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
 Tetris with life is a game in which you need to not just play tetris but also take care of life in your glass.
 
-Тетрис с жизнью это игра в которой вам надо не просто играть в тетрис но и позаботиться о жизни в вашем стакане.
+Тетрис с жизнью - это игра в которой вам надо не просто играть в тетрис, но и позаботиться о жизни в вашем стакане.
 
 MVC, 2D graphics, Animations ...
 
