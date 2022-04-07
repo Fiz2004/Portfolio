@@ -5,7 +5,7 @@
 ## 1. Mono
 
 <p align="center">
- <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Mono.png" width="869" height="416" />
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Mono.png" width="100%" height="48%" />
 </p>
  
  <p align="center">
@@ -23,7 +23,7 @@ MVVM, Jetpack Navigation Component, Room, LiveData, Flow, StateFlow, Kotlin Coro
 ## 2. Battle in the space
 
 <p align="center">
- <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Battle_in_the_space.jpg" width="869" height="416" />
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Battle_in_the_space.jpg" width="100%" height="48%" />
 </p>
  
  <p align="center">
@@ -41,7 +41,7 @@ MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 ## 3. Tetris with life
 
 <p align="center">
- <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Tetris_with_life.jpg" width="869" height="416" />
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Tetris_with_life.jpg" width="100%" height="48%" />
 </p>
  
  <p align="center">
