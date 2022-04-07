@@ -20,4 +20,20 @@ Mono - это мобильное приложение для тех, кто лю
 
 MVVM, Jetpack Navigation Component, Room, LiveData, Flow, StateFlow, Kotlin Coroutines, ViewBinding, Material Design ...
 
+## 2. Battle_in_the_space
+<p align="center">
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Battle_in_the_space.jpg" width="869" height="416" />
+</p>
+ 
+ <p align="center">
+ <a href="https://github.com/Fiz2004/Battle_in_the_space">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Battle in Space is a game under development in which you need to earn points by fighting with other spaceships and colliding them with meteorites.
+
+Битва в космосе - это разрабатываемая игра в которой надо зарабатывать очки сражаясь, с другими космическими кораблями и сталкивая их с метеоритами.
+
+MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
