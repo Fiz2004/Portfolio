@@ -14,11 +14,11 @@
  </a>
 </p>
 
-Mono is a mobile application for those who like to manage their finances in a simple but time-consuming way with an intuitive and easy-to-use interface.
+Mono - это мобильное приложение для тех, кто любит управлять своими финансами, с интуитивно понятным и простым в использовании интерфейсом.
+Применяемые технологии:
+Multi-Module Apps, MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, ViewBinding, Material Design ...
 
-Mono - это мобильное приложение для тех, кто любит управлять своими финансами простым, но трудоемким способом с интуитивно понятным и простым в использовании интерфейсом.
-
-MVVM, Jetpack Navigation Component, Room, LiveData, Flow, StateFlow, Kotlin Coroutines, ViewBinding, Material Design ...
+Mono is a mobile application for those who like to manage their finances, with an intuitive and easy-to-use interface.
 
 ## 2. E-Learn
 
@@ -32,12 +32,11 @@ MVVM, Jetpack Navigation Component, Room, LiveData, Flow, StateFlow, Kotlin Coro
  </a>
 </p>
 
-E-Learn is an application that will allow you to choose a course, view information about it and purchase it..
-
-E-Learn - это приложение которое позволит вам выбрать курс, посмотреть информацию о нем и приобрести его.
-
+E-Learn - это мобильное приложение, которое позволит вам выбрать курс, посмотреть информацию о нем и приобрести его.
+Применяемые технологии:
 MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, Material Design ...
 
+E-Learn is an application that will allow you to choose a course, view information about it and purchase it..
 
 ## 3. Battle in the space
 
@@ -51,11 +50,11 @@ MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotli
  </a>
 </p>
 
-Battle in Space is a game under development in which you need to earn points by fighting with other spaceships and colliding them with meteorites.
-
 Битва в космосе - это разрабатываемая игра в которой надо зарабатывать очки, сражаясь с другими космическими кораблями и сталкивая их с метеоритами.
+Применяемые технологии:
+MVVM, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
-MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
+Battle in Space is a game under development in which you need to earn points by fighting with other spaceships and colliding them with meteorites.
 
 ## 4. Tetris with life
 
@@ -69,8 +68,9 @@ MVC, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
  </a>
 </p>
 
+Тетрис с жизнью - это игра в которой вам надо не просто играть в тетрис, но и позаботиться о жизни в вашем стакане.
+Применяемые технологии:
+MVVM, Kotlin Coroutines, 2D graphics, Animations ...
+
 Tetris with life is a game in which you need to not just play tetris but also take care of life in your glass.
 
-Тетрис с жизнью - это игра в которой вам надо не просто играть в тетрис, но и позаботиться о жизни в вашем стакане.
-
-MVVM, Kotlin Coroutines, 2D graphics, Animations ...
