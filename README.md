@@ -24,7 +24,7 @@ Mono is a mobile application for those who like to manage their finances, with a
 ## 2. E-Learn
 
 <p align="center">
- <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/E-Learn.png" width="100%" height="48%" />
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/E-Learn.jpg" width="100%" height="48%" />
 </p>
  
  <p align="center">
