@@ -15,6 +15,7 @@
 </p>
 
 Mono - это мобильное приложение для тех, кто любит управлять своими финансами, с интуитивно понятным и простым в использовании интерфейсом.
+
 Применяемые технологии:
 Multi-Module Apps, MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, ViewBinding, Material Design ...
 
@@ -33,6 +34,7 @@ Mono is a mobile application for those who like to manage their finances, with a
 </p>
 
 E-Learn - это мобильное приложение, которое позволит вам выбрать курс, посмотреть информацию о нем и приобрести его.
+
 Применяемые технологии:
 MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, Material Design ...
 
@@ -51,6 +53,7 @@ E-Learn is an application that will allow you to choose a course, view informati
 </p>
 
 Битва в космосе - это разрабатываемая игра в которой надо зарабатывать очки, сражаясь с другими космическими кораблями и сталкивая их с метеоритами.
+
 Применяемые технологии:
 MVVM, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
@@ -69,6 +72,7 @@ Battle in Space is a game under development in which you need to earn points by 
 </p>
 
 Тетрис с жизнью - это игра в которой вам надо не просто играть в тетрис, но и позаботиться о жизни в вашем стакане.
+
 Применяемые технологии:
 MVVM, Kotlin Coroutines, 2D graphics, Animations ...
 
