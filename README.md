@@ -21,7 +21,26 @@ Multi-Module Apps, MVVM, Jetpack Navigation Component, Room, Flow, StateFlow, Ko
 
 Mono is a mobile application for those who like to manage their finances, with an intuitive and easy-to-use interface.
 
-## 2. E-Learn
+## 2. Wisecrypto
+
+<p align="center">
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Wisecrypto.jpg" width="100%" height="48%" />
+</p>
+ 
+ <p align="center">
+ <a href="https://github.com/Fiz2004/Wisecrypto">
+   <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+</p>
+
+Wisecrypto - это мобильное приложение, которое позволит вам отслеживать свои любимые акции онлайн и быть в курсе событий с помощью персонализированных оповещений и глобальных финансовых новостей.
+
+Применяемые технологии:
+MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, Material Design ...
+
+Track your favorite stocks on the go and stay informed with personalized alerts and global financial news.
+
+## 3. E-Learn
 
 <p align="center">
  <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/E-Learn.jpg" width="100%" height="48%" />
@@ -40,7 +59,7 @@ MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotli
 
 E-Learn is an application that will allow you to choose a course, view information about it and purchase it..
 
-## 3. Battle in the space
+## 4. Battle in the space
 
 <p align="center">
  <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Battle_in_the_space.jpg" width="100%" height="48%" />
@@ -59,7 +78,7 @@ MVVM, Realm, LiveData, FirebaseAuth, 2D graphics, Physics engine ...
 
 Battle in Space is a game under development in which you need to earn points by fighting with other spaceships and colliding them with meteorites.
 
-## 4. Tetris with life
+## 5. Tetris with life
 
 <p align="center">
  <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Tetris_with_life.jpg" width="100%" height="48%" />
