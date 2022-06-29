@@ -24,11 +24,11 @@ Mono is a mobile application for those who like to manage their finances, with a
 ## 2. Wisecrypto
 
 <p align="center">
- <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Wisecrypto.jpg" width="100%" height="48%" />
+ <img src="https://github.com/Fiz2004/Portfolio/blob/main/View/Wisecrypto.png" width="100%" height="48%" />
 </p>
  
  <p align="center">
- <a href="https://github.com/Fiz2004/Wisecrypto.png">
+ <a href="https://github.com/Fiz2004/Wisecrypto">
    <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
  </a>
 </p>
