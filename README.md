@@ -36,7 +36,7 @@ Mono is a mobile application for those who like to manage their finances, with a
 Wisecrypto - это мобильное приложение, которое позволит вам отслеживать свои любимые акции онлайн и быть в курсе событий с помощью персонализированных оповещений и глобальных финансовых новостей.
 
 Применяемые технологии:
-MVI, Jetpack Compose, Jetpack Navigation Component, Room, Flow, StateFlow, Kotlin Coroutines, Material Design ...
+MVI, Jetpack Compose, Jetpack Navigation Component, Retrofit, Glide, Room, Flow, StateFlow, Kotlin Coroutines, Material Design ...
 
 Track your favorite stocks on the go and stay informed with personalized alerts and global financial news.
 
