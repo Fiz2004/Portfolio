@@ -13,7 +13,7 @@
    <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
  </a>
   <a href="https://galaxy.store/MonoGH">
-   <img  src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_small/GalaxyStore_EnglishEU.png?ver=1659466408000"  height="28" width="102">
+   <img  src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_small/GalaxyStore_EnglishEU.png?ver=1659466408000"  height="28" width="84">
  </a>
 </p>
 
