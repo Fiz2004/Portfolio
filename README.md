@@ -12,6 +12,9 @@
  <a href="https://github.com/Fiz2004/Mono">
    <img  src="https://img.shields.io/badge/GitHub-35006a?style=for-the-badge&logo=github&logoColor=white">
  </a>
+  <a href="https://galaxystore.samsung.com/detail/com.fiz.mono">
+   <img  src="https://img.samsungapps.com/seller/images/badges/galaxyStore/png_small/GalaxyStore_Russian.png?ver=1659466408000"  height="28" width="102">
+ </a>
 </p>
 
 Mono - это мобильное приложение для тех, кто любит управлять своими финансами, с интуитивно понятным и простым в использовании интерфейсом.
